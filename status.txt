@@ -1,4 +1,4 @@
-Status:open 
+Status:Lock
 program password:1234
 Allowed number of runs:2
 Error message text: hello
