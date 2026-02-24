@@ -1,5 +1,1 @@
-Status:Lock
-program password:1234
-Allowed number of runs:
-Error message text: hello
-Introduction message text:Sobhan Molavi
+Status:lock
