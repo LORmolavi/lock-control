@@ -1,5 +1,5 @@
 Status:Lock
 program password:1234
 Allowed number of runs:free
-Error message text:money
-Introduction message text:Sobhan Molavi.
+Error message text:
+Introduction message text:
