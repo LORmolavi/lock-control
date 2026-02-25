@@ -1,5 +1,5 @@
 Status:Lock
-program password:123
+program password:A@b#C&dE
 Allowed number of runs:free
 Error message text:
 Introduction message text:
