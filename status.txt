@@ -1,5 +1,5 @@
 Status:open 
 program password:12345
 Allowed number of runs:free
-Error message text:money 
+Error message text:
 Introduction message text:
