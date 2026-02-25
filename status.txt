@@ -2,6 +2,4 @@ Status:open
 program password:123
 Allowed number of runs:free
 Error message text:
-Introduction message text:hello 
-Introduction message text:My name is sobhan Molavi 
-Introduction message text:money
+Introduction message text:hello my name is Sobhan Molavi money in buy
