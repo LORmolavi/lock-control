@@ -1,5 +1,6 @@
-Status:open 
+Status:Lock
 program password:123
+program password:456
 Allowed number of runs:free
 Error message text:
-Introduction message text:The old bookstore on the corner of Elm Street had been a fixture in the neighborhood for over fifty years. Its windows were always dusty, but through the grime, you could glimpse towers of books stacked on every available surface. The owner, a man named Arthur with spectacles thick as bottle glass, knew every volume by heart. 09139115271 
+Introduction message text:
