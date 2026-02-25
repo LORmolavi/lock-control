@@ -1,5 +1,5 @@
 Status:open 
 program password:123
-Allowed number of runs:3
+Allowed number of runs:free
 Error message text:money 
 Introduction message text:Sobhan M
