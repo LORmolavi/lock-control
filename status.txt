@@ -1,4 +1,4 @@
-Status:Lock
+Status:open
 program password:A@b#C&dE
 Allowed number of runs:free
 Error message text:
