@@ -1,5 +1,5 @@
-Status:Lock
+Status:open 
 program password:123456
 Allowed number of runs:free
-Error message text: Hello
+Error message text:
 Introduction message text:
