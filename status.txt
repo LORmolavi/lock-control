@@ -2,4 +2,4 @@ Status:open
 program password:123456
 Allowed number of runs:free
 Error message text:
-Introduction message text:
+Introduction message text: Hello my name is Sobhan Molavi .
