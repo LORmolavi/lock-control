@@ -1,5 +1,5 @@
 Status:open 
 program password:123456
 Allowed number of runs:free
-Error message text:
+Error message text: Give me money. 
 Introduction message text: Hello my name is Sobhan Molavi .
